@@ -10,6 +10,7 @@ public class User {
     private String password;
     private static List<String> rentedBooks;
 
+
     public User(String username, String password) {
         this.username = username;
         this.password = password;

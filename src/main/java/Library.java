@@ -14,6 +14,7 @@ public class Library {
     private ArrayList<User> users;
     private ArrayList<Librarian> librarians;
 
+
     public Library() {
         this.books = new ArrayList<Book>();
         this.bookQuantities = new HashMap<Book, Integer>();

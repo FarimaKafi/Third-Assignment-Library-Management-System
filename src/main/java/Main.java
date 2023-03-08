@@ -7,7 +7,6 @@ public class Main {
     * don't forget to add at least 1 librarian to the library to make it functionable.
     * *  *** don't limit yourself to our template ***
      */
-
     public static void main(String[] args) {
         Library library = new Library();
         // Add at least one librarian to the library

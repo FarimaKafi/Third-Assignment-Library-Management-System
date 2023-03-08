@@ -7,7 +7,6 @@ public class Librarian {
     * The librarian should be able to add\remove\\update user add\remove\\update_
     _ librarian and add\remove\\update book
      */
-
     private String username;
     private String password;
     private ArrayList<User> users;
